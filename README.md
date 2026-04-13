@@ -35,11 +35,6 @@ Trabajo especialmente en:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 
-### ⚙️ Desarrollo backend
-![POO](https://img.shields.io/badge/OOP-1f6feb?style=for-the-badge)
-![APIs](https://img.shields.io/badge/APIs-0ea5e9?style=for-the-badge)
-*(uso práctico, no enfoque principal)*
-
 ### 🧰 Herramientas profesionales
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -50,11 +45,6 @@ Trabajo especialmente en:
 ---
 
 ## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daviiid07&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daviiid07&theme=tokyonight&hide_border=true" height="150"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daviiid07&layout=compact&theme=tokyonight&hide_border=true"/>
