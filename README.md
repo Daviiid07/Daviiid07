@@ -7,46 +7,45 @@
 
 <p align="center">
   💻 Desarrollador en formación (DAM) <br>
-  ⚡ Enfocado en programación, lógica y consumo de APIs <br>
-  🚀 Construyendo aplicaciones funcionales y bien estructuradas
+  ⚙️ Enfocado en desarrollo backend, lógica y entornos de software <br>
+  🚀 Construyendo bases sólidas como desarrollador profesional
 </p>
 
 ---
 
 ## 🚀 Sobre mí
 
-Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** con un enfoque claro en **programación y desarrollo backend**.
+Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** con un enfoque orientado al **desarrollo backend y fundamentos de ingeniería de software**.
 
-Me centro en escribir código **limpio, estructurado y entendible**, aplicando lógica sólida y buenas prácticas.
+Me interesa entender cómo funcionan los sistemas “por dentro”, desde la lógica de aplicación hasta el entorno donde se ejecutan.
 
-Actualmente estoy:
+Trabajo especialmente en:
 
-- 🔭 Trabajando en: proyectos personales enfocados a desarrollo real  
-- 🌱 Profundizando en: **JavaScript, consumo de APIs y estructuras de datos**  
-- 🧠 Reforzando: **Java, SQL y lógica de programación**  
-- 🎯 Objetivo: convertirme en desarrollador backend competente  
+- 🧠 Lógica de programación y resolución de problemas
+- ☕ Desarrollo en **Java** (mi lenguaje principal)
+- 🧩 Diseño de estructuras de software y POO
+- 🧰 Entornos de desarrollo y herramientas profesionales
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
-
-<p align="center">
 
 ### 💻 Lenguajes
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 
-### 🔌 APIs & Datos
-![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=api&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+### ⚙️ Desarrollo backend
+![POO](https://img.shields.io/badge/OOP-1f6feb?style=for-the-badge)
+![APIs](https://img.shields.io/badge/APIs-0ea5e9?style=for-the-badge)
+*(uso práctico, no enfoque principal)*
 
-### 🧰 Herramientas
+### 🧰 Herramientas profesionales
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</p>
 
 ---
 
@@ -65,21 +64,21 @@ Actualmente estoy:
 
 ## 🌟 Proyectos destacados
 
-### 🔹 Aplicaciones con APIs
-> Proyectos donde consumo APIs REST, proceso datos en JSON y los transformo en información útil.
+### ☕ Aplicaciones en Java
+Proyectos centrados en **POO, estructuras de datos y lógica de negocio**.
 
-### 🔹 Prácticas con Java
-> Desarrollo de lógica, estructuras de control y programas orientados a objetos.
+### 🧰 Entornos de desarrollo
+Configuración y uso de herramientas como **Docker y máquinas virtuales** para entornos aislados.
 
-### 🔹 Bases de datos y SQL
-> Consultas, triggers y gestión de datos con enfoque práctico.
+### 💾 Bases de datos
+Diseño y consultas SQL aplicadas a problemas reales.
 
 ---
 
 ## 📫 Contacto
 
 <p align="center">
-  <a href="mailto:tuemail@ejemplo.com">
+  <a href="mailto:davidgarridoquiles@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -88,9 +87,10 @@ Actualmente estoy:
 
 ## ⚡ Un poco más sobre mí
 
-- 🧠 Me gusta resolver problemas mediante código  
-- 🔍 Disfruto entendiendo cómo funcionan las APIs y los datos  
-- 📈 En constante mejora como desarrollador  
+- 🧠 Me interesa entender cómo funcionan los sistemas desde la base  
+- ⚙️ Prefiero construir lógica sólida antes que interfaces complejas  
+- 🧰 Me gusta trabajar con herramientas reales de desarrollo (Git, Docker, VM)  
+- 📈 En constante evolución como desarrollador backend  
 
 ---
 
