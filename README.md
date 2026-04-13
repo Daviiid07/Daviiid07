@@ -1,4 +1,3 @@
-<!-- BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=David%20Garrido&fontSize=40&fontColor=ffffff" />
 </p>
@@ -7,23 +6,26 @@
 
 <p align="center">
   💻 Desarrollador en formación (DAM) <br>
-  ⚙️ Enfocado en desarrollo backend, lógica y entornos de software <br>
-  🚀 Construyendo bases sólidas como desarrollador profesional
+  ⚙️ Enfocado en backend, Java y bases de datos SQL <br>
+  🚀 Construyendo bases sólidas como desarrollador backend
 </p>
 
 ---
 
 ## 🚀 Sobre mí
 
-Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** con un enfoque orientado al **desarrollo backend y fundamentos de ingeniería de software**.
+Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** y actualmente me estoy formando como **desarrollador backend**.
 
-Me interesa entender cómo funcionan los sistemas “por dentro”, desde la lógica de aplicación hasta el entorno donde se ejecutan.
+Me interesa especialmente comprender cómo se diseñan y construyen sistemas desde la base: lógica de programación, estructuras de datos y diseño de aplicaciones.
+
+No me limito a escribir código funcional, sino que busco entender cómo construir soluciones correctas, mantenibles y bien estructuradas.
 
 Trabajo especialmente en:
 
-- 🧠 Lógica de programación y resolución de problemas
-- ☕ Desarrollo en **Java** (mi lenguaje principal)
-- 🧩 Diseño de estructuras de software y POO
+- 🧠 Lógica de programación y resolución de problemas  
+- ☕ Desarrollo en **Java** (mi lenguaje principal)  
+- 🧩 Diseño de estructuras de software y POO  
+- 💾 Bases de datos y consultas **SQL** aplicadas a proyectos  
 - 🧰 Entornos de desarrollo y herramientas profesionales
 
 ---
@@ -35,33 +37,37 @@ Trabajo especialmente en:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 
-### 🧰 Herramientas profesionales
+### 🧰 Herramientas profesionales con las que he trabajado
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 🌐 Portfolio
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daviiid07&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+🚀 Puedes ver mi portfolio personal aquí:
+
+👉 https://daviiid07.github.io/David_Garrido-Portfolio/
 
 ---
 
-## 🌟 Proyectos destacados
+## 📂 Proyectos en desarrollo
 
-### ☕ Aplicaciones en Java
-Proyectos centrados en **POO, estructuras de datos y lógica de negocio**.
+Actualmente estoy trabajando en proyectos personales y académicos enfocados en consolidar mis bases como desarrollador.
+Entre ellos:
 
-### 🧰 Entornos de desarrollo
-Configuración y uso de herramientas como **Docker y máquinas virtuales** para entornos aislados.
-
-### 💾 Bases de datos
-Diseño y consultas SQL aplicadas a problemas reales.
+- ☕ Aplicaciones en Java con POO y estructuras de datos
+- ☕ **Mini Rogue (Java)** – Proyecto en desarrollo  
+  Juego tipo roguelike en Java enfocado en:
+  - Programación orientada a objetos (POO)
+  - Gestión de estado y lógica de juego
+  - Estructuración modular del código
+- 💾 Prácticas de bases de datos relacionales con SQL
+- 🧠 Ejercicios de lógica y algoritmos
 
 ---
 
@@ -73,14 +79,19 @@ Diseño y consultas SQL aplicadas a problemas reales.
   </a>
 </p>
 
+<p align="center">
+  📩 Si no se abre tu cliente de correo: <br>
+  <strong>davidgarridoquiles@gmail.com</strong>
+</p>
+
 ---
 
 ## ⚡ Un poco más sobre mí
 
 - 🧠 Me interesa entender cómo funcionan los sistemas desde la base  
-- ⚙️ Prefiero construir lógica sólida antes que interfaces complejas  
-- 🧰 Me gusta trabajar con herramientas reales de desarrollo (Git, Docker, VM)  
-- 📈 En constante evolución como desarrollador backend  
+- ☕ Me estoy formando como desarrollador backend especializado en Java  
+- ⚙️ Prefiero construir lógica sólida antes que soluciones superficiales  
+- 📈 En constante evolución como desarrollador de backend  
 
 ---
 
