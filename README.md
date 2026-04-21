@@ -51,7 +51,7 @@ Trabajo especialmente en:
 
 🚀 Puedes ver mi portfolio personal aquí:
 
-👉 https://daviiid07.github.io/David_Garrido-Portfolio/
+👉 https://daviiid07.github.io/portfolio-david-garrido/
 
 ---
 
