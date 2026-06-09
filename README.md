@@ -79,9 +79,8 @@ Versión ligera de un juego tipo **roguelike** desarrollada con **JavaFX**. El j
 - Generación de mapas aleatoria mediante lectura de fichero externo (`cartas.txt`) en tiempo de ejecución
 - Sistema de progresión del personaje: niveles, experiencia, dados de ataque adicionales y gestión de recursos (vida, comida, oro, armadura)
 - Combate por turnos basado en lanzamiento de dados con jefes de zona con vida propia
-- Tests con **JUnit Jupiter 5**
 
-**Stack:** Java 25 · JavaFX 17 · Maven · JUnit 5
+**Stack:** Java 25 · JavaFX 17 · Maven
 
 ---
 
