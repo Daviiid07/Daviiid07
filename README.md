@@ -35,9 +35,15 @@ Trabajo especialmente en:
 ### 💻 Lenguajes
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 
-### 🧰 Herramientas profesionales con las que he trabajado
+### 🧩 Frameworks y tecnologías
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
+
+### 🧰 Herramientas profesionales
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -55,19 +61,42 @@ Trabajo especialmente en:
 
 ---
 
-## 📂 Proyectos en desarrollo
+## 📂 Proyectos destacados
 
-Actualmente estoy trabajando en proyectos personales y académicos enfocados en consolidar mis bases como desarrollador.
-Entre ellos:
+### ☕ Mini Rogue (Java + JavaFX)
+> Proyecto final del módulo de Programación — DAM
 
-- ☕ Aplicaciones en Java con POO y estructuras de datos
-- ☕ **Mini Rogue (Java)** – Proyecto en desarrollo  
-  Juego tipo roguelike en Java enfocado en:
-  - Programación orientada a objetos (POO)
-  - Gestión de estado y lógica de juego
-  - Estructuración modular del código
-- 💾 Prácticas de bases de datos relacionales con SQL
-- 🧠 Ejercicios de lógica y algoritmos
+[![Repo](https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Daviiid07/Mini-Rogue)
+
+Versión ligera de un juego tipo **roguelike** desarrollada con **JavaFX**. El jugador controla a un héroe que avanza por mazmorras generadas aleatoriamente a partir de un fichero externo de cartas, tomando decisiones en cada sala y combatiendo con un sistema basado en dados.
+
+**Aspectos técnicos destacados:**
+- Arquitectura **MVC** con separación clara entre modelo, servicio y controlador FXML
+- Herencia y polimorfismo con clase abstracta `Carta` y 6 subtipos (Enemigo, Tesoro, Mercader, Trampa, Descanso, Evento)
+- Generación de mapas aleatoria mediante lectura de fichero externo (`cartas.txt`) en tiempo de ejecución
+- Sistema de progresión del personaje: niveles, experiencia, dados de ataque adicionales y gestión de recursos (vida, comida, oro, armadura)
+- Combate por turnos basado en lanzamiento de dados con jefes de zona con vida propia
+- Tests con **JUnit Jupiter 5**
+
+**Stack:** Java 25 · JavaFX 17 · Maven · JUnit 5
+
+---
+
+### 📚 BibliotecaApp (Spring Boot + Angular)
+> Challenge final de NTT Data
+
+[![Repo](https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shotgirlie29/RetoFinalBiblioteca)
+
+Aplicación **full-stack** para la gestión de una biblioteca con relación **1:M entre Autores y Libros**. Incluye un backend REST completo y un frontend Angular con navegación mediante lazy loading.
+
+**Aspectos técnicos destacados:**
+- API REST con Spring Boot 3.2: endpoints CRUD completos para autores y libros
+- Modelo de datos con **JPA/Hibernate** y base de datos H2 en memoria
+- Uso de **DTOs** para desacoplar la capa de presentación del modelo de dominio
+- Frontend en **Angular 19 Standalone** con servicios basados en Observables y lazy loading de rutas
+- Datos de ejemplo precargados al arrancar mediante `DataInitializer.java`
+
+**Stack:** Java 17 · Spring Boot 3.2 · Angular 19 · TypeScript · H2 · Maven
 
 ---
 
