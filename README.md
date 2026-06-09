@@ -26,6 +26,7 @@ Trabajo especialmente en:
 - ☕ Desarrollo en **Java** (mi lenguaje principal)  
 - 🧩 Diseño de estructuras de software y POO  
 - 💾 Bases de datos y consultas **SQL** aplicadas a proyectos  
+- 🔌 Diseño y consumo de **APIs REST**, manejo de **JSON** y **XML**  
 - 🧰 Entornos de desarrollo y herramientas profesionales
 
 ---
@@ -42,6 +43,11 @@ Trabajo especialmente en:
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
+
+### 🔌 APIs y formatos de datos
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![XML](https://img.shields.io/badge/XML-E44D26?style=for-the-badge&logo=w3c&logoColor=white)
 
 ### 🧰 Herramientas profesionales
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
