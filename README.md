@@ -52,11 +52,6 @@ Trabajo especialmente en:
 ![H2](https://img.shields.io/badge/H2-1D4ED8?style=for-the-badge&logoColor=white)
 ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
 
-### 🤖 Visión artificial e IA
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![ONNX Runtime](https://img.shields.io/badge/ONNX%20Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white)
-![YOLO Pose](https://img.shields.io/badge/YOLO%20Pose-111827?style=for-the-badge&logoColor=white)
-
 ### 🔌 APIs y formatos de datos
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
